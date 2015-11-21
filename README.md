@@ -1,2 +1,3 @@
 # Getting-Started-JG
-Getting started page
+I created a repository.
+
